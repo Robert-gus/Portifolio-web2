@@ -1,0 +1,18 @@
+{
+  "projetos": [
+    {
+      "id": "1",
+      "nome": "Sistema IBGE",
+      "descricao": "Sistema web para consulta de dados demográficos, econômicos e sociais.",
+      "tecnologias": "Python, Flask",
+      "link": "https://github.com/koitech-API"
+    },
+    {
+      "id": "2",
+      "nome": "Carneiro Hidráulico",
+      "descricao": "Projeto prático focado na criação de um carneiro hidráulico para fins educacionais.",
+      "tecnologias": "Mecânica",
+      "link": "#"
+    }
+  ]
+}
